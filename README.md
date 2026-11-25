@@ -15,8 +15,30 @@ remote's mic button.
 
 ## Screenshots
 
-<!-- SCREENSHOTS -->
-_Screenshots will be added here._
+<p align="center">
+  <img width="800" alt="Home screen" src="https://github.com/user-attachments/assets/8ec46694-c3d5-4722-bd57-56c1e56e8c69"><br>
+  <b>Home screen</b>
+</p>
+<br>
+
+<p align="center">
+  <img width="800" alt="Video player" src="https://github.com/user-attachments/assets/7364bfdb-9857-4e58-b23d-3f2ea9b9f778"><br>
+  <b>Video stats</b>
+</p>
+<br>
+
+<p align="center">
+  <img width="700" alt="Voice search" src="https://github.com/user-attachments/assets/9c5f00af-9e60-48ef-a9bf-1a98a2d6c302"><br>
+  <b>Surround Audio</b>
+</p>
+<br>
+
+<p align="center">
+  <img width="700" alt="4K HDR stats" src="https://github.com/user-attachments/assets/d9a2a6e3-7cc9-4453-a377-51264441446b"><br>
+  <b>Audio Stats</b>
+</p>
+
+
 
 ## Features
 
