@@ -1,0 +1,10 @@
+.gradle/
+build/
+app/build/
+engine/target/
+local.properties
+# Built from engine/ by the workflow (or: cargo ndk, see README)
+app/src/main/jniLibs/
+*.apk
+*.jks
+*.keystore
