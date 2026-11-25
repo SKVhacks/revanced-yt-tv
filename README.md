@@ -1,4 +1,5 @@
-<p align="center"><img src="app/src/main/res/drawable-xxxhdpi/banner.png" width="480" alt="ReVanced YT TV"></p>
+<p align="center"><img width="1600" height="1200" alt="yt" src="https://github.com/user-attachments/assets/c2f04f9f-e1ab-4e01-b4a2-1dae1fe1f350" /></p>
+
 
 # ReVanced YT TV
 
