@@ -191,4 +191,4 @@ GPL-3.0 (see [LICENSE](LICENSE)), because the app ships uBlock Origin's scriptle
 - [adblock-rust](https://github.com/brave/adblock-rust) and Brave's lists and resources, © Brave Software, MPL-2.0
 - [EasyList / EasyPrivacy](https://easylist.to), GPL-3.0 / CC BY-SA 3.0
 - [Peter Lowe's list](https://pgl.yoyo.org/adservers/)
-- App logo and TV banner provided by the project owner.
+- [App logo affiliated to revanced team](https://www.reddit.com/r/revancedapp/comments/1h2ee49/youtube_vanced_logo/)
